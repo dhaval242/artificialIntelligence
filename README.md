@@ -1,2 +1,2 @@
-# artificialIntelligence
-Course Projects for Artificial Intelligence
+ChatBot
+Group 6 project for the course Artificial Intelligence
